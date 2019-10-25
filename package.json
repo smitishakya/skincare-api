@@ -14,7 +14,7 @@
   },
   "keywords": [],
   "engines": {
-    "node": "10.16.3git"
+    "node": "10.16.3"
   },
   "author": "",
   "license": "ISC",
