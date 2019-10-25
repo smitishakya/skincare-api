@@ -27,6 +27,11 @@ With this application it lets your first find out your skintype and lets you bui
 4. GET /reviews that returns a list of reviews posted by the users making their reccomendation for the product that worked for them.
 
 5. POST /reviews that accepts a JSON object representing a review and adds it to the list of reviews after validation.
+  Review POST includes: 
+ - name : name of your recommnendation product 
+ - rating: rate based on your experience 
+ - comment: comment down briefly about the product
+ 
  
 6. DELETE /reviews/:id that deletes the reviews with the given ID.
 
