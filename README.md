@@ -32,7 +32,7 @@ With this application it lets your first find out your skintype and lets you bui
 
 
 
-- Technologies: 
+## Technologies: 
 
   Server: JS, Node.js, Express, Knex, Postgres, Postgrator, SQL, Nodemon, CORS, Helmet, Morgan,Supertest, Mocha, Chai
 
