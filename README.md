@@ -6,7 +6,7 @@ Skincare Discovery was created to solve the issue of most people using the wrong
 With this application it lets your first find out your skintype and lets you build a 5 Steps Skin Care Routine based on your skin type. Also made for all user to have a easy experience in finding the right product for their skin within their price point. 
 
 
-## Gettiong Started
+## Getting Started
 
 - Clone the repository and run npm i
 - Create local Postgresql databases: skincaredb and skincaredbtest
@@ -15,6 +15,8 @@ With this application it lets your first find out your skintype and lets you bui
 - To seed, use terminal to enter root of application and run: `psql -d huddle -f ./seeds/seed.skincare_products.sql`
 - Run `npm run dev` to start the server locally
 
+
+## Endpoints
 
 
 1. GET /skincare that returns a list of skincare products. 
