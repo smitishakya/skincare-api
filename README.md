@@ -1,9 +1,9 @@
 # Skincare Discovery
 
-## Purpose
 
-Skincare Discovery was created to solve the issue of most people using the wrong products on their skin. 
-With this application it lets your first find out your skintype and lets you build a 5 Steps Skin Care Routine based on your skin type. Also made for all user to have a easy experience in finding the right product for their skin within their price point. 
+Live link : [Heroku link](https://ancient-woodland-71089.herokuapp.com/)
+
+
 
 
 ## Getting Started
@@ -37,12 +37,18 @@ With this application it lets your first find out your skintype and lets you bui
  
 6. DELETE /reviews/:id that deletes the reviews with the given ID.
 
+## Summary 
+
+Skincare Discovery was created to solve the issue of most people using the wrong products on their skin. 
+With this application it lets your first find out your skintype and lets you build a 5 Steps Skin Care Routine based on your skin type. Also made for all user to have a easy experience in finding the right product for their skin within their price point. 
+
 
 
 ## Technologies: 
 
-  Server: JS, Node.js, Express, Knex, Postgres, Postgrator, SQL, Nodemon, CORS, Helmet, Morgan,Supertest, Mocha, Chai
+  - Node 
+  - Express, 
+  - PostgreSQL
+  - Heroku
 
-  Deployment: Heroku
 
-[Heroku link](https://ancient-woodland-71089.herokuapp.com/)
