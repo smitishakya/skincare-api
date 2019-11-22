@@ -12,7 +12,7 @@ Live link : [Heroku link](https://ancient-woodland-71089.herokuapp.com/)
 - Create local Postgresql databases: skincaredb and skincaredbtest
 - Run `mv example.env .env` and provide the local database locations within your .env file
 - Run `npm run migrate` and `npm run migrate:test` to update each database
-- To seed, use terminal to enter root of application and run: `psql -d huddle -f ./seeds/seed.skincare_products.sql`
+- To seed, use terminal to enter root of application and run: `psql -d skincaredb -f ./seeds/seed.skincare_products.sql`
 - Run `npm run dev` to start the server locally
 
 
